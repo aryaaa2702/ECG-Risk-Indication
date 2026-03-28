@@ -1,0 +1,12 @@
+Dataset: MIT-BIH Arrhythmia Dataset
+
+Source:
+https://physionet.org/content/mitdb/1.0.0/
+
+Description:
+This project uses the MIT-BIH Arrhythmia Dataset, which contains annotated ECG recordings.
+
+Note:
+The dataset is accessed directly using the wfdb library from PhysioNet servers, so no local copy is stored in this repository.
+
+To run this project, ensure internet connectivity.
